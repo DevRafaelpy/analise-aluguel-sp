@@ -1,0 +1,11 @@
+# PyCharm
+.idea/
+
+# Ambiente Virtual
+.venv/
+venv/
+ENV/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
